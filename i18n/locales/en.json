@@ -1,0 +1,24 @@
+{
+  "header": {
+    "siteName": "MyWebsite",
+    "home": "Home",
+    "blog": "Blog",
+    "nav": {
+      "home": { "label": "Home", "to": "/", "cta": false },
+      "blog": { "label": "blog", "to": "/blog", "cta": false },
+      "contact": { "label": "blog", "to": "/blog", "cta": false },
+      "signup": { "label": "blogblog", "to": "/blog", "cta": true }
+    }
+  },
+  "welcome": "Hello",
+  "about": "About",
+  "metadata": {
+    "title": "New website Meta",
+    "description": "Description english meta"
+  },
+  "cta": {
+    "title": "Do you want to tente the adventure ??",
+    "description": "Click below",
+    "text_button": "Join now"
+  }
+}

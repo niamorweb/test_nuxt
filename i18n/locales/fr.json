@@ -1,0 +1,24 @@
+{
+  "header": {
+    "siteName": "MyWebsite",
+    "home": "Accueil",
+    "blog": "Presse",
+    "nav": {
+      "home": { "label": "Home", "to": "/", "cta": false },
+      "blog": { "label": "blog", "to": "/blog", "cta": false },
+      "contact": { "label": "blog", "to": "/blog", "cta": false },
+      "signup": { "label": "blogblog", "to": "/blog", "cta": true }
+    }
+  },
+  "welcome": "Bonjour",
+  "about": "À propos",
+  "metadata": {
+    "title": "Nouveau site web Meta",
+    "description": "Description en francais meta"
+  },
+  "cta": {
+    "title": "Es tu prêt à joindre l'aventure ??",
+    "description": "Clique en dessous",
+    "text_button": "Rejoindre maintenant"
+  }
+}
